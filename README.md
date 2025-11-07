@@ -36,7 +36,7 @@ This repository contains resources, slides, and examples from the AI in Teaching
 ---
 
 ## AI for Creativity and Teaching Design
-- [Bing Image Creator (DALL·E 3)](https://www.bing.com/create)
+- [DALL·E 3](https://openai.com/index/dall-e-3/)
 - [Canva Magic Studio](https://www.canva.com/education/)
 - [Working with AI: Two Paths to Prompting – Ethan Mollick](https://www.oneusefulthing.org/p/working-with-ai-two-paths-to-prompting)
 
@@ -58,5 +58,5 @@ This repository contains resources, slides, and examples from the AI in Teaching
 
 ## Citation and Acknowledgment
 This resource list was curated for the AI in Teaching Workshop (Hamilton College / SUNY Morrisville, 2025).  
-Created and maintained by [Your Name].  
+Created and maintained by cronnpj@morrisville.edu.  
 Feel free to share or fork this repository for educational purposes.
