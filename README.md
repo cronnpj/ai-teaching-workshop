@@ -56,6 +56,11 @@ This repository contains resources, slides, and examples from the AI in Teaching
 
 ---
 
+## Podcasts on AI
+- [Intelligent Machines](https://twit.tv/shows/intelligent-machines)
+
+---
+
 ## Citation and Acknowledgment
 This resource list was curated for the AI in Teaching Workshop (Hamilton College / SUNY Morrisville, 2025).  
 Created and maintained by cronnpj@morrisville.edu.  
